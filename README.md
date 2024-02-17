@@ -1,18 +1,4 @@
 ### Hi there 👋
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19046
-Fork on GitHub
-5703
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
 
 preview
 <h1 align="center">Hi 👋, I'm Ashok Aki</h1>
